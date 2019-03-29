@@ -25,7 +25,11 @@
 	</runtimes>
 	<libraries/>
 	<files>
-		<include/>
+		<include>
+			<fileitem>
+				<path>work.java</path>
+			</fileitem>
+		</include>
 	</files>
 	<tasks/>
 </project>

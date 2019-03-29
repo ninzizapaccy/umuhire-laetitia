@@ -10,4 +10,20 @@
 			<showfiles>false</showfiles>
 		</project>
 	</projects>
+	<open_files>
+		<docitem>
+			<path>work.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>work.java.sdk</path>
+			<symbols>
+				<symbol>Employees</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
 </workspace_user>
